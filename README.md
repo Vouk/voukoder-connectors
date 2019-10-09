@@ -13,4 +13,4 @@ This step was necessary for many reasons and was actually unavoidable:
 
 In fact the connectors will most likely not change that often. You just need to install the latest voukoder core component in case of an update, just as before.
 
-*I'd like to create a special installer program that makes it simpler and detects installed or not installed versions, downloads whats required. If you can help me with this please contact me at vouk@mailbox.org.*
+**I'd like to create a special installer program that makes it simpler and detects installed or not installed versions, downloads whats required. If you can help me with this please contact me at vouk@mailbox.org.**
