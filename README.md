@@ -1,3 +1,6 @@
+## Note:
+These connectors requires voukoder 2.3beta2 or later.
+
 ## Latest versions
 - [adobe-premiere-connector-0.9.1.msi](adobe-premiere/adobe-premiere-connector-0.9.1.msi?raw=true)
 ## What are these connectors for?
