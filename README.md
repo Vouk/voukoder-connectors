@@ -1,5 +1,5 @@
 ## Latest versions
-- [adobe-premiere-connector-0.9.0.msi](adobe-premiere/adobe-premiere-connector-0.9.0.msi?raw=true)
+- [adobe-premiere-connector-0.9.1.msi](adobe-premiere/adobe-premiere-connector-0.9.1.msi?raw=true)
 ## What are these connectors for?
 Since version 2.3 the Voukoder project has significantly changed. It is not one monolothic component anymore, it has been split into two components:
 1. The [Voukoder Core](https://github.com/Vouk/voukoder) component will be registered as a system wide COM server and will provide its encoding services and user interface to as many programs as possible. You can even integrate it to your own program.
