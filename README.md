@@ -2,8 +2,8 @@
 These connectors requires [voukoder 2.3beta2 or later](https://github.com/Vouk/voukoder/releases).
 
 ## Latest versions
-- [adobe-premiere-connector-0.9.1.msi](adobe-premiere/adobe-premiere-connector-0.9.1.msi?raw=true)
-- [magix-vegas-connector-0.1.1.msi](magix-vegas/magix-vegas-connector-0.1.1.msi?raw=true)
+- [adobe-premiere-connector-0.9.1.msi](adobe-premiere/adobe-premiere-connector-0.9.1.msi?raw=true) [(Changelog)](adobe-premiere/README.md)
+- [magix-vegas-connector-0.1.1.msi](magix-vegas/magix-vegas-connector-0.1.1.msi?raw=true) [(Changelog)](magix-vegas/README.md)
 ## What are these connectors for?
 Since version 2.3 the Voukoder project has significantly changed. It is not one monolothic component anymore, it has been split into two components:
 1. The [Voukoder Core](https://github.com/Vouk/voukoder) component will be registered as a system wide COM server and will provide its encoding services and user interface to as many programs as possible. You can even integrate it to your own program.
