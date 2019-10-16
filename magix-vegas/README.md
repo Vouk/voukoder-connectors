@@ -1,5 +1,5 @@
 # Changelog
-## 0.2.0 (in progress)
+## 0.1.1
 - Increased performance by optimizing video and audio processing loop
 
 ## 0.1.0
