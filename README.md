@@ -1,5 +1,5 @@
 ## Note:
-These connectors requires [voukoder 2.3beta4 or later](https://github.com/Vouk/voukoder/releases).
+These connectors requires [voukoder 2.3beta4 or later](https://github.com/Vouk/voukoder/releases). Please uninstall previous versions before updating first.
 
 ## Latest versions
 - [adobe-premiere-connector-0.9.2.msi](adobe-premiere/adobe-premiere-connector-0.9.2.msi?raw=true) [(Changelog)](adobe-premiere/README.md)
