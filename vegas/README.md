@@ -1,4 +1,8 @@
 # Changelog
+## 0.4.0
+- Improved installer
+- Prepared for Voukoder 2.3beta5
+
 ## 0.3.0
 - Audio sample rate will now be taken from the project settings
 - Supporting interlaced projects now
