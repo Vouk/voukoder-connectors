@@ -1,4 +1,7 @@
 # Changelog
+## 0.4.2
+- Fixed installer versioning
+
 ## 0.4.1
 - Fixed the installer so hopefully no deinstallation prior installation is necessary
 
