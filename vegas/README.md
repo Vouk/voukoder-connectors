@@ -1,4 +1,7 @@
 # Changelog
+## 0.4.1
+- Fixed the installer so hopefully no deinstallation prior installation is necessary
+
 ## 0.4.0
 - Improved installer
 - Prepared for Voukoder 2.3beta5
