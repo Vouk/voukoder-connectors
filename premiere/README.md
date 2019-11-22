@@ -1,4 +1,7 @@
 # Changelog
+## 0.9.5
+- Including "Microsoft_VC142_CRT_x64.msm"
+
 ## 0.9.4
 - Fixed the installer so hopefully no deinstallation prior installation is necessary
 

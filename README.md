@@ -2,8 +2,8 @@
 These connectors requires [voukoder 2.3beta5 or later](https://github.com/Vouk/voukoder/releases). Please uninstall previous versions before updating first.
 
 ## Latest versions
-- [premiere-connector-0.9.4.msi](premiere/premiere-connector-0.9.4.msi?raw=true) [(Changelog)](premiere/README.md)
-- [aftereffects-connector-0.9.2.msi](aftereffects/aftereffects-connector-0.9.2.msi?raw=true) [(Changelog)](aftereffects/README.md)
+- [premiere-connector-0.9.5.msi](premiere/premiere-connector-0.9.5.msi?raw=true) [(Changelog)](premiere/README.md)
+- [aftereffects-connector-0.9.3.msi](aftereffects/aftereffects-connector-0.9.3.msi?raw=true) [(Changelog)](aftereffects/README.md)
 - [vegas-connector-0.4.3.msi](vegas/vegas-connector-0.4.3.msi?raw=true) [(Changelog)](vegas/README.md)
 ## What are these connectors for?
 Since version 2.3 the Voukoder project has significantly changed. It is not one monolothic component anymore, it has been split into two components:
