@@ -1,4 +1,7 @@
 # Changelog
+## 0.4.3
+- Including "Microsoft_VC142_CRT_x64.msm"
+
 ## 0.4.2
 - Fixed installer versioning
 
