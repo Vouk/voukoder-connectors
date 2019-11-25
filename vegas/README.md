@@ -1,4 +1,7 @@
 # Changelog
+## 0.4.5
+- Fixed correct loading of presets
+
 ## 0.4.4
 - Supporting 5.1 surround audio
 
