@@ -1,4 +1,7 @@
 # Changelog
+## 1.0.0
+- Fixed plugin name
+
 ## 0.9.5
 - Including "Microsoft_VC142_CRT_x64.msm"
 

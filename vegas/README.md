@@ -1,4 +1,7 @@
 # Changelog
+## 0.5.0
+- Prepared plugin for 2.3 release
+
 ## 0.4.5
 - Fixed correct loading of presets
 
