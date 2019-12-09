@@ -1,4 +1,7 @@
 # Changelog
+## 1.0.1
+- Fixed auto detection of the installation path
+
 ## 1.0.0
 - Fixed plugin name
 
