@@ -1,4 +1,7 @@
 # Changelog
+## 1.0.2
+- Fixed small instability issues
+
 ## 1.0.1
 - Fixed auto detection of the installation path
 
