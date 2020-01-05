@@ -1,4 +1,8 @@
 # Changelog
+## 0.5.1
+- Improving stability
+- Fixed audio/video interleaving
+
 ## 0.5.0
 - Prepared plugin for 2.3 release
 
