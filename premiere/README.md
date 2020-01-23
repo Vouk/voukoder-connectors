@@ -1,4 +1,7 @@
 # Changelog
+## 1.0.3
+- Added 48, 72 and 90 fps support
+
 ## 1.0.2
 - Fixed small instability issues
 

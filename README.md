@@ -1,5 +1,5 @@
 ## Latest versions
-- [premiere-connector-1.0.2.msi](premiere/premiere-connector-1.0.2.msi?raw=true) [(Changelog)](premiere/README.md)
+- [premiere-connector-1.0.3.msi](premiere/premiere-connector-1.0.3.msi?raw=true) [(Changelog)](premiere/README.md)
 - [aftereffects-connector-0.9.3.msi](aftereffects/aftereffects-connector-0.9.3.msi?raw=true) [(Changelog)](aftereffects/README.md)
 - [vegas-connector-0.5.1.msi](vegas/vegas-connector-0.5.1.msi?raw=true) [(Changelog)](vegas/README.md)
 
