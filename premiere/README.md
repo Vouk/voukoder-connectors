@@ -1,4 +1,7 @@
 # Changelog
+## 1.1.0
+- Added AVX/AVX2 acceleration
+
 ## 1.0.3
 - Added 48, 72 and 90 fps support
 
