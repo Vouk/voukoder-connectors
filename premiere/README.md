@@ -1,4 +1,8 @@
 # Changelog
+## 1.1.1
+- Fixed UTF8 encoding issues in the UI
+- Auto detecting Premiere Elements if Pro is not installed
+
 ## 1.1.0
 - Added AVX/AVX2 acceleration
 
