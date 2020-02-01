@@ -1,4 +1,7 @@
 # Changelog
+## 1.2.0
+- Rendering with an alpha channel if a selected pixel format contains an alpha channel
+
 ## 1.1.1
 - Fixed UTF8 encoding issues in the UI
 - Auto detecting Premiere Elements if Pro is not installed
