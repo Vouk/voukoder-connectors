@@ -1,4 +1,8 @@
 # Changelog
+## 0.6.0
+- Supporting VEGAS Movie Studio
+- Added auto installer and updater
+
 ## 0.5.1
 - Improving stability
 - Fixed audio/video interleaving
