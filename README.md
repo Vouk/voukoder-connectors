@@ -1,7 +1,7 @@
 ## Latest versions
 - [premiere-connector-1.2.0.msi](premiere/premiere-connector-1.2.0.msi?raw=true) [(Changelog)](premiere/README.md)
 - [aftereffects-connector-0.9.3.msi](aftereffects/aftereffects-connector-0.9.3.msi?raw=true) [(Changelog)](aftereffects/README.md)
-- [vegas-connector-0.6.0.msi](vegas/vegas-connector-0.6.0.msi?raw=true) [(Changelog)](vegas/README.md)
+- [vegas-connector-0.5.1.msi](vegas/vegas-connector-0.5.1.msi?raw=true) [(Changelog)](vegas/README.md)
 
 ## Support
 If you have questions or suggestions please check out the official [forum](https://www.voukoder.org/forum/).
