@@ -1,4 +1,7 @@
 # Changelog
+## 1.2.1
+- Added Beacon
+
 ## 1.2.0
 - Rendering with an alpha channel if a selected pixel format contains an alpha channel
 
