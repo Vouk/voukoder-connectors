@@ -1,4 +1,7 @@
 # Changelog
+## 0.6.1
+- Removed auto installer again until further notice
+
 ## 0.6.0
 - Supporting VEGAS Movie Studio
 - Added auto installer and updater
