@@ -1,4 +1,7 @@
 # Changelog
+## 0.9.4
+- Added beacon
+
 ## 0.9.3
 - Including "Microsoft_VC142_CRT_x64.msm"
 
