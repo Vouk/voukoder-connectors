@@ -1,4 +1,7 @@
 # Changelog
+## 1.2.2
+- Fixed application ids
+
 ## 1.2.1
 - Added Beacon
 
