@@ -1,4 +1,8 @@
 # Changelog
+## 0.7.0
+- Added audio configuration page
+- Imrpoved beacon on startup
+
 ## 0.6.1
 - Removed auto installer again until further notice
 
