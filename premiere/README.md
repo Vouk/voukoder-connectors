@@ -1,4 +1,8 @@
 # Changelog
+## 1.2.3
+- Fixed that failure message is not shown on failed export
+- Fixed alpha channel issue with > 8bit pix fmts in SSE2 path
+
 ## 1.2.2
 - Fixed application ids
 
