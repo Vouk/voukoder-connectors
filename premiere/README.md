@@ -1,4 +1,7 @@
 # Changelog
+## 1.2.5
+- Showing FPS as floating point numbers now
+
 ## 1.2.4
 - Fix
 
