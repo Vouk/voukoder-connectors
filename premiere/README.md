@@ -1,4 +1,7 @@
 # Changelog
+## 1.3.0
+- Added 36fps support
+
 ## 1.2.5
 - Showing FPS as floating point numbers now
 
