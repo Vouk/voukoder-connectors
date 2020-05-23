@@ -1,4 +1,7 @@
 # Changelog
+## 0.7.1
+- Add AAC offset HACK!
+
 ## 0.7.0
 - Added audio configuration page
 - Imrpoved beacon on startup
