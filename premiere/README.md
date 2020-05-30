@@ -1,4 +1,7 @@
 # Changelog
+## 1.4.0
+- Improved performance when rescaling
+
 ## 1.3.0
 - Added 36fps support
 
