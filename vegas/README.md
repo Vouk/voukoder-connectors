@@ -1,4 +1,8 @@
 # Changelog
+## 0.7.2
+- Fixed startup issues
+- Named audio channels
+
 ## 0.7.1
 - Add AAC offset HACK!
 
