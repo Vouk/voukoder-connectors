@@ -1,4 +1,7 @@
 # Changelog
+## 1.5.0
+- Fixed file extension bug (https://www.voukoder.org/forum/thread/631)
+
 ## 1.4.0
 - Improved performance when rescaling
 
