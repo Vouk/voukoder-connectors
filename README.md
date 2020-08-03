@@ -1,7 +1,7 @@
 ## Latest versions
 - [premiere-connector-1.5.0.msi](premiere/premiere-connector-1.5.0.msi?raw=true) [(Changelog)](premiere/README.md)
 - [aftereffects-connector-0.9.4.msi](aftereffects/aftereffects-connector-0.9.4.msi?raw=true) [(Changelog)](aftereffects/README.md)
-- [vegas-connector-0.7.2.msi](vegas/vegas-connector-0.7.2.msi?raw=true) [(Changelog)](vegas/README.md)
+- [vegas-connector-1.0.0.msi](vegas/vegas-connector-1.0.0.msi?raw=true) [(Changelog)](vegas/README.md) Up to VEGAS Pro 17 only
 
 ## Support
 If you have questions or suggestions please check out the official [forum](https://www.voukoder.org/forum/).

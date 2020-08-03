@@ -1,4 +1,7 @@
 # Changelog
+## 1.0.0
+- Limited install path detected up to VEGAS 17
+
 ## 0.7.2
 - Fixed startup issues
 - Named audio channels
