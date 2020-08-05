@@ -2,6 +2,9 @@
 ## 1.0.0
 - Limited install path detected up to VEGAS 17
 
+## 0.9.9
+- First beta version of VEGAS 18 plugin
+
 ## 0.7.2
 - Fixed startup issues
 - Named audio channels
