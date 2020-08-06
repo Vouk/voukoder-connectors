@@ -2,6 +2,9 @@
 ## 1.0.0
 - Limited install path detected up to VEGAS 17
 
+## 0.9.10
+- Setting color information accordingly
+
 ## 0.9.9
 - First beta version of VEGAS 18 plugin
 
