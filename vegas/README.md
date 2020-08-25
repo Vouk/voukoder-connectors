@@ -2,6 +2,10 @@
 ## 1.0.0
 - Limited install path detected up to VEGAS 17
 
+## 0.9.11
+- Removed audio property page again (back to 0.6 style)
+- Renamed templates
+
 ## 0.9.10
 - Setting color information accordingly
 
