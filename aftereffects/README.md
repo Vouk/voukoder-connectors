@@ -1,4 +1,8 @@
 # Changelog
+## 0.9.6
+- Removed beacon again
+- Added support for "trillions of colours"
+
 ## 0.9.4
 - Added beacon
 
