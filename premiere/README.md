@@ -1,4 +1,11 @@
 # Changelog
+## 1.7.0
+- Improved RGBA modes (vertical flip)
+- Added 16 bit RGBA render mode
+- Renamed plugin
+
+## 1.6.0 (not released)
+
 ## 1.5.0
 - Fixed file extension bug (https://www.voukoder.org/forum/thread/631)
 
