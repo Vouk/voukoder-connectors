@@ -1,4 +1,6 @@
 # Changelog
+## 0.4.0
+- Added yuv444p16le format
 ## 0.3.0
 - Added multiple pixel formats
 ## 0.2.0
