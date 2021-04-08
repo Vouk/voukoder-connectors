@@ -1,4 +1,6 @@
 # Changelog
+## 0.4.1
+- Added 24 bit and 32 bit audio support
 ## 0.4.0
 - Added yuv444p16le format
 ## 0.3.0
