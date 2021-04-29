@@ -1,4 +1,6 @@
 # Changelog
+## 0.5.0
+- Added aspect ratio support
 ## 0.4.1
 - Added 24 bit and 32 bit audio support
 ## 0.4.0
