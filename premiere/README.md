@@ -1,4 +1,7 @@
 # Changelog
+## 1.8.0
+- Added 240 and 480 fps support
+
 ## 1.7.0
 - Improved RGBA modes (vertical flip)
 - Added 16 bit RGBA render mode
