@@ -1,4 +1,6 @@
 # Changelog
+## 0.6.0
+- Fixed unicode file handling
 ## 0.5.0
 - Added aspect ratio support
 ## 0.4.1
