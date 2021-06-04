@@ -1,4 +1,6 @@
 # Changelog
+## 0.7.0
+- Adds current timecode to private video options
 ## 0.6.0
 - Fixed unicode file handling
 ## 0.5.0
