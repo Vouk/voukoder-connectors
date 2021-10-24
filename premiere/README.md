@@ -1,4 +1,8 @@
 # Changelog
+## 1.9.0
+- Fixed audio frequency display issue
+- Fixed 8 bit 444 render mode
+
 ## 1.8.0
 - Added 240 and 480 fps support
 
