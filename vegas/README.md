@@ -1,10 +1,16 @@
 # Changelog
+## 1.2.0
+- Fixed pixel aspect ratio
+
 ## 1.1.0
 - Removed audio property page again (back to 0.6 style)
 - Renamed templates
 
 ## 1.0.0
 - Limited install path detected up to VEGAS 17
+
+## 0.9.12
+- Fixed pixel aspect ratio
 
 ## 0.9.11
 - Removed audio property page again (back to 0.6 style)
