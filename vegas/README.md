@@ -1,4 +1,11 @@
 # Changelog
+## 1.3.0 (VEGAS 12-17)
+- Speed improvements
+
+## 1.0.0 (VEGAS 18+)
+- Speed improvements
+- Alpha channel templates
+
 ## 1.2.0
 - Fixed pixel aspect ratio
 
