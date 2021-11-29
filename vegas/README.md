@@ -1,4 +1,10 @@
 # Changelog
+## 1.4.0 (VEGAS 12-17)
+- Added Audio only template
+
+## 1.1.0 (VEGAS 18+)
+- Added Audio only template
+
 ## 1.3.0 (VEGAS 12-17)
 - Speed improvements
 
