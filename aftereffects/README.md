@@ -1,4 +1,7 @@
 # Changelog
+## 0.10.0
+- Explicitly allowing commercial use
+
 ## 0.9.6
 - Removed beacon again
 - Added support for "trillions of colours"

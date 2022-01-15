@@ -1,4 +1,7 @@
 # Changelog
+## 1.5.0 (VEGAS 12-17) / 1.2.0 (VEGAS 18+)
+- Explicitly allowing commercial use
+
 ## 1.4.0 (VEGAS 12-17)
 - Added Audio only template
 

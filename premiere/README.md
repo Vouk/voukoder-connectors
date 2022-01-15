@@ -1,4 +1,7 @@
 # Changelog
+## 1.10.0
+- Explicitly allowing commercial use
+
 ## 1.9.0
 - Fixed audio frequency display issue
 - Fixed 8 bit 444 render mode
