@@ -1,4 +1,6 @@
 # Changelog
+## 0.8.0
+- Fixing timecode calculation
 ## 0.7.0
 - Adds current timecode to private video options
 ## 0.6.0
