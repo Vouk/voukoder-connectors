@@ -1,4 +1,7 @@
 # Changelog
+## 1.11.0
+- Frame size is allowed from 16x16 to 8192x8192
+
 ## 1.10.0
 - Explicitly allowing commercial use
 
