@@ -1,4 +1,7 @@
 # Changelog
+## 1.11.1
+- Digitally signed DLL and MSI files
+
 ## 1.11.0
 - Frame size is allowed from 16x16 to 8192x8192
 
