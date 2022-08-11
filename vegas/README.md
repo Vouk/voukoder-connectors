@@ -1,4 +1,8 @@
 # Changelog
+## 1.6.0
+- Prepared one installer per major version of VEGAS Pro 18 and later
+- Digitally signed the installers
+
 ## 1.5.0 (VEGAS 12-17) / 1.2.0 (VEGAS 18+)
 - Explicitly allowing commercial use
 
