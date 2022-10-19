@@ -1,4 +1,7 @@
 # Changelog
+## 1.12.1
+- Added p010 pixel format
+
 ## 1.11.1
 - Digitally signed DLL and MSI files
 
