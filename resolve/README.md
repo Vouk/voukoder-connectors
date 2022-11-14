@@ -1,4 +1,6 @@
 # Changelog
+## 0.10.0
+- Fixed 24bit audio mode
 ## 0.9.0
 - Added 'YUVA (High bit depth)' entry with alpha channel support to the Type dropdown (DVR 18 and later only)
 ## 0.8.1
