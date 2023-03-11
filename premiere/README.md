@@ -1,4 +1,7 @@
 # Changelog
+## 1.13.0
+- Added 8 FPS support
+
 ## 1.12.1
 - Added p010 pixel format
 
