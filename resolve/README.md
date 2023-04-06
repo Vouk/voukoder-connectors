@@ -1,4 +1,6 @@
 # Changelog
+## 0.12.1
+- Fixed timecode generation for fractional framerates
 ## 0.12.0
 - Made the timecode generation even more reliable
 ## 0.11.0
