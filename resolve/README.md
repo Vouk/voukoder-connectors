@@ -1,9 +1,5 @@
 # Changelog
-## 0.12.1
-- Fixed timecode generation for fractional framerates
-## 0.12.0
-- Made the timecode generation even more reliable
-## 0.11.0
+## 0.11.0, 0.12.0 0.12.1, 0.12.2
 - Fixed timecode is sometimes off by one frame
 ## 0.10.0
 - Fixed 24bit audio mode
