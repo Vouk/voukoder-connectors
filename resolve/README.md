@@ -1,4 +1,6 @@
 # Changelog
+## 0.12.0
+- Made the timecode generation even more reliable
 ## 0.11.0
 - Fixed timecode is sometimes off by one frame
 ## 0.10.0
