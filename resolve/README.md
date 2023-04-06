@@ -1,4 +1,6 @@
 # Changelog
+## 0.11.0
+- Fixed timecode is sometimes wrong by one frame
 ## 0.10.0
 - Fixed 24bit audio mode
 ## 0.9.0
