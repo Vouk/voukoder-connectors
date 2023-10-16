@@ -1,4 +1,7 @@
 # Changelog
+## 1.7.0
+- Fixing the alpha channel bug?
+
 ## 1.6.0
 - Prepared one installer per major version of VEGAS Pro 18 and later
 - Digitally signed the installers
