@@ -1,5 +1,5 @@
 ## Latest versions
-- [resolve-connector-0.12.4.zip](resolve/resolve-connector-0.12.4.zip?raw=true) [(Changelog)](resolve/README.md)
+- [resolve-connector-0.13.0.zip](resolve/resolve-connector-0.13.0.zip?raw=true) [(Changelog)](resolve/README.md)
 - [premiere-connector-1.13.0.msi](premiere/premiere-connector-1.13.0.msi?raw=true) [(Changelog)](premiere/README.md)
 - [aftereffects-connector-0.10.0.msi](aftereffects/aftereffects-connector-0.10.0.msi?raw=true) [(Changelog)](aftereffects/README.md)
 - [vegas-connector-1.5.0.msi](vegas/vegas-connector-1.5.0.msi?raw=true) (up to VEGAS Pro 17) [(Changelog)](vegas/README.md)
