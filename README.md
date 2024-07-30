@@ -7,6 +7,7 @@
 - [connector-vegas19-1.7.1.msi](vegas/connector-vegas19-1.7.1.msi?raw=true) (VEGAS Pro 19) [(Changelog)](vegas/README.md)
 - [connector-vegas20-1.7.1.msi](vegas/connector-vegas20-1.7.1.msi?raw=true) (VEGAS Pro 20) [(Changelog)](vegas/README.md)
 - [connector-vegas21-1.7.1.msi](vegas/connector-vegas21-1.7.1.msi?raw=true) (VEGAS Pro 21) [(Changelog)](vegas/README.md)
+- [connector-vegas22-1.0.0.msi](vegas/connector-vegas22-1.0.0.msi?raw=true) (VEGAS Pro 22) [(Changelog)](vegas/README.md)
 
 ## Support
 If you have questions or suggestions please check out the official [forum](https://www.voukoder.org/forum/).
