@@ -1,4 +1,7 @@
 # Changelog
+## 1.0.0 (VEGAS Pro 22)
+- First version
+  
 ## 1.7.0
 - Fixing the alpha channel bug?
 
@@ -6,19 +9,19 @@
 - Prepared one installer per major version of VEGAS Pro 18 and later
 - Digitally signed the installers
 
-## 1.5.0 (VEGAS 12-17) / 1.2.0 (VEGAS 18+)
+## 1.5.0 (VEGAS Pro 12-17) / 1.2.0 (VEGAS Pro 18+)
 - Explicitly allowing commercial use
 
-## 1.4.0 (VEGAS 12-17)
+## 1.4.0 (VEGAS Pro 12-17)
 - Added Audio only template
 
-## 1.1.0 (VEGAS 18+)
+## 1.1.0 (VEGAS Pro 18+)
 - Added Audio only template
 
-## 1.3.0 (VEGAS 12-17)
+## 1.3.0 (VEGAS Pro 12-17)
 - Speed improvements
 
-## 1.0.0 (VEGAS 18+)
+## 1.0.0 (VEGAS Pro 18+)
 - Speed improvements
 - Alpha channel templates
 
